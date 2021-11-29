@@ -1,0 +1,13 @@
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\bin\Debug\netcoreapp2.1\ModBasic.deps.json
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\bin\Debug\netcoreapp2.1\ModBasic.runtimeconfig.json
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\bin\Debug\netcoreapp2.1\ModBasic.runtimeconfig.dev.json
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\bin\Debug\netcoreapp2.1\ModBasic.dll
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\bin\Debug\netcoreapp2.1\ModBasic.pdb
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\obj\Debug\netcoreapp2.1\ModBasic.csproj.AssemblyReference.cache
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\obj\Debug\netcoreapp2.1\ModBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\obj\Debug\netcoreapp2.1\ModBasic.AssemblyInfoInputs.cache
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\obj\Debug\netcoreapp2.1\ModBasic.AssemblyInfo.cs
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\obj\Debug\netcoreapp2.1\ModBasic.csproj.CoreCompileInputs.cache
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\obj\Debug\netcoreapp2.1\ModBasic.dll
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\obj\Debug\netcoreapp2.1\ModBasic.pdb
+C:\Users\rgvas\Desktop\CoreEssentials\EntityFrameworkCore\Introduction\ModBasic\ModBasic\obj\Debug\netcoreapp2.1\ModBasic.genruntimeconfig.cache
